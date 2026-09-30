@@ -335,6 +335,34 @@ I'm continuously expanding my engineering fundamentals and exploring technologie
 
 ---
 
+## 🧭 Developer Journey
+
+I'm currently building my foundation as a software developer through **hands-on projects, problem solving, and continuous learning**.
+
+### 🔹 Where I Am
+
+* 🎓 **BCA Student**
+* 💻 Building real-world software projects
+* 🤖 Exploring **AI/ML & Computer Vision**
+* ⚙️ Developing skills in **Backend & Full-Stack Engineering**
+* 🧠 Strengthening **Data Structures & Algorithms**
+* 🐧 Learning **Linux, DevOps & Cloud**
+
+### 🔹 What I'm Building
+
+* 🌊 AI-powered marine sonar analysis systems
+* 🌾 Full-stack agricultural platforms
+* 🤖 AI-powered automation systems
+* 🔥 IoT and intelligent safety concepts
+
+### 🔹 Where I'm Heading
+
+My long-term goal is to become a strong **software engineer** with solid foundations in **DSA, backend engineering, AI/ML, DevOps, and system design**.
+
+> **Learn continuously → Build consistently → Solve real problems → Grow as an engineer. 🚀**
+
+---
+
 ## 🤝 Connect With Me
 
 * 💻 GitHub: [ronny-dev01
